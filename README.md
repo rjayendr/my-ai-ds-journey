@@ -1,39 +1,31 @@
-# 🚀 AI + Data Science Journey – Week 1
+# 🧠 AI + Data Science Journey — Week 1 ✅
 
-Welcome to my learning-in-public repository as I transition from automation to AI + Data Science. This repo documents my weekly progress.
-
-## 📌 Week 1 Goals:
-- Build fluency in Python basics.
-- Setup local Python environment using VS Code.
-- Revisit core programming concepts.
-- Begin solving beginner DSA problems.
-
-## ✅ Completed:
-- [x] Udacity Intro to Python course completed.
-- [x] Python + VS Code setup on local machine.
-- [x] HackerRank & LeetCode accounts created.
-- [x] Solved 2 beginner problems.
-- [x] GitHub account created & repo initialized.
-- [x] Notion roadmap configured.
-
-## 📂 Repo Structure
-my-ai-ds-journey/
-
-├── Week1_Basics/
-
-│   ├── hello_world.py
-
-│   ├── basic_loops.py
-
-│   └── error_handling_demo.py
-
-├── README.md
-
-└── W1_Reflection_Log.md
-
-## 🔗 Reflection Log
-[View Week 1 Reflection](./W1_Reflection_Log.md)
+Hi! I'm documenting my transition from 14+ years in automation to AI & Data Science. This repository captures my weekly progress, hands-on projects, and personal reflections as I build a solid foundation in Python, Data Analysis, ML, and MLOps.
 
 ---
 
-> 🌱 I'm building in public. Follow my journey, suggest improvements, or star if you find this helpful!
+## 📅 Week 1: Python Fundamentals & Environment Setup
+
+### 🎯 Goals:
+- Rebuild fluency in core Python concepts
+- Setup VS Code with Python/Jupyter locally
+- Create GitHub repo and basic project structure
+- Start hands-on problem solving (HackerRank, LeetCode)
+
+---
+
+## ✅ Completed:
+
+| Task | Status |
+|------|--------|
+| Udacity Python refresher course | ✅ Completed |
+| Python setup in VS Code | ✅ Installed and configured |
+| HackerRank & LeetCode registration | ✅ Done |
+| Solved 2 beginner coding problems | ✅ Completed |
+| GitHub repo created | ✅ [View Repo](https://github.com/rjayendr/my-ai-ds-journey) |
+| W1 Reflection Log | ✅ [View Log](./W1_Reflection_Log.md) |
+
+---
+
+## 🗂️ Folder Structure
+
