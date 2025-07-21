@@ -4,20 +4,28 @@ This log tracks my daily learnings, struggles, and key takeaways throughout my A
 
 ---
 
-## Week 2 Reflections:
+## Official Week 1 – Python & Data Structures:
 
-**Day 8 (YYYY-MM-DD):**
-* **Learned:** [Begin your Week 2 reflections here, e.g., "Started with NumPy, understanding array creation and basic operations."]
-* **Struggled with:** [e.g., "Getting used to vectorized operations vs. traditional loops."]
-* **Key Takeaway:** [e.g., "NumPy is incredibly powerful for numerical computations."]
+**Day 1 (YYYY-MM-DD):**
+* **Learned:** [Begin your new Week 1 reflections here, e.g., "Revisited Python functions and started on basic OOP concepts."]
+* **Struggled with:** [e.g., "Understanding method vs. attribute access in simple classes."]
+* **Key Takeaway:** [e.g., "Consistency in daily coding is already building muscle memory."]
+
+**Day 2 (YYYY-MM-DD):**
+* **Learned:** [e.g., "Deep dived into Python lists, including list comprehensions and common methods."]
+* **Struggled with:** [e.g., "Debugging an off-by-one error in a list slicing exercise."]
+* **Key Takeaway:** [e.g., "List comprehensions are powerful for concise code, but require careful thought."]
 
 ---
 
-## Week 1 Summary (from previous log):
+## Prep Week Summary (Archived Entries):
 
-* **Python Refresher:** I completed the Udacity Introduction to Python course (UD1110). While initially recommended to skip, this course proved to be a very helpful and thorough refresher for my Python basics, which was essential for me to feel confident moving forward.
-* **Local Environment Setup:** Successfully set up Python in VS Code on my local machine, which is ready for hands-on coding practice.
-* **Coding Platform Registration:** Registered accounts on HackerRank and LeetCode, and managed to solve one or two initial problems to get a feel for the platforms.
-* **GitHub Account Creation:** Created my GitHub account, which is the first step towards building my public portfolio.
+* **Python Refresher:** Successfully completed initial Python basics, including syntax, variables, operators, and control flow.
+* **Environment Setup:** Confirmed Google Colab/Jupyter functionality and installed Git locally.
+* **GitHub Initialization:** Created my public GitHub repository and performed first commits.
+* **Initial DSA Practice:** Solved [Number] "Easy" problems on HackerRank/LeetCode.
+* **Initial Reflection:** Established the habit of daily reflection logging.
 
-... (rest of your Week 1 summary) ...
+[**Add any other key achievements or notes from your "Prep Week" here.**]
+
+---
