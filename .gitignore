@@ -1,0 +1,34 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large data files (example patterns)
+*.csv
+*.json
+*.parquet
+data/
+datasets/
+raw_data/
+processed_data/
+
+# Machine Learning Models
+*.h5
+*.keras
+*.pt
+*.pkl
+*.joblib
+models/
+trained_models/
+
+# Large output files
+*.log
+*.html
+*.csv.zip
+reports/
+output/
+
+# Environment variables
+.env
