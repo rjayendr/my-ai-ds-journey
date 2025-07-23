@@ -1,70 +1,52 @@
-📅 Week 01: Python Fundamentals & Environment Setup
+# 📅 Week 01: Python Fundamentals & Environment Setup
 
-Welcome to Week 1 of my AI Automation Architect journey! This week is dedicated to solidifying my Python fundamentals, establishing a robust development environment, and tackling initial hands-on coding challenges.
-🎯 Weekly Objectives
+Welcome to **Week 1** of my **AI Automation Architect** journey!  
+This week focused on solidifying Python fundamentals, establishing a clean local development environment, and kicking off project-based problem-solving.
 
-    Environment Mastery: Ensure VS Code, Git, and Python virtual environments are perfectly configured for seamless development.
+---
 
-    Python Core Fluency: Rebuild and strengthen understanding of basic Python syntax, data types, operators, and control flow.
+## 🎯 Weekly Objectives
 
-    Problem-Solving Foundation: Begin applying Python skills to solve practical coding problems.
+- ✅ **Environment Mastery:** VS Code, Git, virtual environments fully configured  
+- ✅ **Python Core Fluency:** Data types, control flow, functions  
+- ✅ **Problem Solving:** HackerRank warm-up  
+- ✅ **Project-Based Learning:** 5 foundational Python projects
 
-    Project-Based Learning: Complete foundational projects that reinforce theoretical concepts.
+---
 
-🛠️ Projects & Key Learnings
+## 🛠️ Projects & Key Learnings
 
-This week's projects are designed to build a strong base:
+| Project   | Focus |                     Key Concepts                            |                           Link                     |
+|---------  |-------|-------------------------------------------------------------|----------------------------------------------------|
+| **Project | 01**  | Personal Coding Environment Setup | VS Code, venv, pip, Git | [Details](../Project_01_Env_Setup/README.md)       |
+| **Project | 02**  | Python Basics Calculator | I/O, conditionals, try-except    | [Details](../Project_02_Calculator/README.md)      |
+| **Project | 03**  | Personal Finance Tracker | Lists, dicts, data loops         | [Details](../Project_03_Finance_Tracker/README.md) |
+| **Project | 04**  | Contact Management System | CRUD, file I/O, persistence     | [Details](../Project_04_Contact_Manager/README.md) |
+| **Project | 05**  | Task Scheduler | OOP: classes, methods, attributes          | [Details](../Project_05_Task_Scheduler/README.md)  |
 
-    Project 01: Personal Coding Environment Setup
+---
 
-        Focus: Setting up VS Code, Git, and virtual environments.
+## 🧠 Problem Solving & Practice
 
-        Learnings: Importance of environment isolation, Git workflow, dependency management.
+- Practiced on **HackerRank – Easy level**
+- Focused on: Strings, loops, conditionals, list operations
 
-        Link: Project 01 Details (./Project_01_Env_Setup/README.md)
+📎 [View My HackerRank Solutions](../../HackerRank_Solutions/README.md)
 
-    Project 02: Python Basics Calculator
+---
 
-        Focus: Implementing basic arithmetic operations, input/output, and error handling.
+## 💡 Weekly Insights & Reflections
 
-        Learnings: Function definition, conditional logic, basic error handling (try-except).
+> This week reinforced the importance of a **structured local environment**. Setting up tools properly has already saved hours of rework.  
+> The hands-on projects proved essential in applying core concepts — I now have a stronger grip on Python’s data model and can structure simple CLI applications with confidence.
 
-        Link: Project 02 Details (./Project_02_Calculator/README.md)
+📝 [View Full Reflection Log](../../Reflection_Log.md)
 
-    Project 03: Personal Finance Tracker
+---
 
-        Focus: Utilizing lists and dictionaries for data storage and basic data manipulation.
+## ⏭️ Coming Up Next
 
-        Learnings: Working with Python's built-in data structures, basic data aggregation.
+> **Week 02:**  
+> Deeper into Python: exception handling, modules, and intro to lightweight web frameworks like **FastAPI** (via micro-sprint).
 
-        Link: Project 03 Details (./Project_03_Finance_Tracker/README.md)
-
-    Project 04: Contact Management System
-
-        Focus: Implementing CRUD (Create, Read, Update, Delete) operations and basic file I/O.
-
-        Learnings: Reading from and writing to files (e.g., CSV/JSON), managing data persistence.
-
-        Link: Project 04 Details (./Project_04_Contact_Manager/README.md)
-
-    Project 05: Automation Task Scheduler
-
-        Focus: Introduction to Object-Oriented Programming (OOP) concepts.
-
-        Learnings: Designing classes, creating objects, understanding methods and attributes.
-
-        Link: Project 05 Details (./Project_05_Task_Scheduler/README.md)
-
-📈 Problem Solving & Practice
-
-    HackerRank Solutions: I've started tackling Easy-level Python problems to hone my algorithmic thinking and coding efficiency.
-
-        Link: View My HackerRank Solutions (../../HackerRank_Solutions/README.md)
-
-💡 Weekly Insights & Reflection
-
-This week has reinforced the importance of a well-structured development environment. The hands-on projects have been invaluable for translating theoretical Python knowledge into practical application. I'm excited to build upon this foundation in the coming weeks.
-
-➡️ View My Daily Reflections for the Entire Journey (../../Reflection_Log.md)
-
-Next Up: Week 02 will delve into more advanced Python concepts, including error handling, modules, and possibly an introduction to basic web frameworks.
+Stay tuned for more Python mastery and hands-on sprints! 🚀
