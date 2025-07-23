@@ -27,11 +27,11 @@ Hi! I'm documenting my transition from 14+ years in automation to AI & Data Scie
 
 ---
 
-## 📚 My Optimized Learning Resource Strategy
+## 📚 My Optimized Learning Roadmap
 
-All essential courses, certifications, and learning platforms for this 20-week journey are meticulously mapped out in a dedicated manifest. This strategy leverages existing resources and Coursera Plus for maximum impact and professional certification:
+All essential courses, certifications, and learning platforms for this 20-week journey are meticulously mapped out in my comprehensive roadmap document. This strategy leverages existing resources and Coursera Plus for maximum impact and professional certification:
 
-➡️ **[View My Complete Learning Resource Strategy Here](./Resources/Course_Links.md)**
+➡️ **[View My Complete Learning Roadmap Here](./Roadmap.md)**
 
 ---
 
