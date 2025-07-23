@@ -23,15 +23,15 @@ Hi! I'm documenting my transition from 14+ years in automation to AI & Data Scie
 | HackerRank & LeetCode registration | ✅ Done |
 | Solved 2 beginner coding problems | ✅ Completed |
 | GitHub repo created | ✅ [View Repo](https://github.com/rjayendr/my-ai-ds-journey) |
-| W1 Reflection Log | ✅ [View Log](./Prep_Week/W1_Reflection_Log.md) | *(Consider updating this to point to the main Reflection_Log.md at the root for ongoing use: `./Reflection_Log.md`)*
+| W1 Reflection Log | ✅ [View Log](./Prep_Week/W1_Reflection_Log.md) | *(Suggestion: For your ongoing daily reflections, update this to point to the main Reflection_Log.md at the root: `./Reflection_Log.md`)*
 
 ---
 
-## 📚 Key Learning Resources
+## 📚 My Optimized Learning Resource Strategy
 
-All essential courses, certifications, and learning platforms are meticulously mapped out in my dedicated resource manifest:
+All essential courses, certifications, and learning platforms for this 20-week journey are meticulously mapped out in a dedicated manifest. This strategy leverages existing resources and Coursera Plus for maximum impact and professional certification:
 
-➡️ **[View My Optimized Learning Resource Strategy](./Resources/Course_Links.md)**
+➡️ **[View My Complete Learning Resource Strategy Here](./Resources/Course_Links.md)**
 
 ---
 
