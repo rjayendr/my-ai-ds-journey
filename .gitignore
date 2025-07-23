@@ -5,6 +5,9 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# VS Code specific files
+.vscode/
+
 # Large data files (example patterns)
 *.csv
 *.json
